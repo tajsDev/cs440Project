@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|c:\\users\\tomas\\gameprojects\\unityprojects\\cs440project\\assets\\scripts\\ui\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|c:\\users\\tomas\\gameprojects\\unityprojects\\cs440project\\assets\\scripts\\enemies\\wispenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\wispenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|c:\\users\\tomas\\gameprojects\\unityprojects\\cs440project\\assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|c:\\users\\tomas\\gameprojects\\unityprojects\\cs440project\\assets\\scripts\\enemies\\playerchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\playerchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\assets\\scripts\\database\\addtodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\database\\addtodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\assets\\scripts\\compontents\\scoretracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\compontents\\scoretracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\assets\\scripts\\interfaces\\ireacttodamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EFAC61-CF2D-B155-59EF-11BB5939A5EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\ireacttodamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scoreDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\UI\\scoreDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\scoreDisplay.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\UI\\scoreDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\scoreDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T02:51:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WispEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\WispEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\WispEnemy.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\WispEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\WispEnemy.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T02:47:19.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerChange.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\PlayerChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\PlayerChange.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\PlayerChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\PlayerChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T02:41:00.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:41:30.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Menu.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Enemies\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Menu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:37:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Database\\AddToDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Database\\AddToDatabase.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Database\\AddToDatabase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Database\\AddToDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:21:56.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReactToDamage.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Interfaces\\IReactToDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IReactToDamage.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Interfaces\\IReactToDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IReactToDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-09T04:18:44.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreTracker.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Compontents\\ScoreTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Compontents\\ScoreTracker.cs",
+              "ToolTip": "C:\\Users\\tomas\\gameProjects\\unityprojects\\cs440project\\Assets\\Scripts\\Compontents\\ScoreTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Compontents\\ScoreTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:29:14.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

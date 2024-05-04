@@ -8,7 +8,8 @@ public class AttackComp: MonoBehaviour // Has the ability to attack
 {
     public float damage;
     private void OnTriggerEnter(Collider collision)
-    {;
+    {
+        Debug.Log(collision);
         attackObject(collision.gameObject);
         
     }

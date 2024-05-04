@@ -23,6 +23,14 @@ public class PlayerChange : MonoBehaviour, IReactToDamage
     }
     void loadGameOver()
     {
-        Menu.loadGameOver();
+        
+        if (ScoreTracker.isEndless)
+        {
+            Menu.loadGameWin();
+        }
+        else
+        {
+            Menu.loadGameOver();
+        }
     }
 }

@@ -53,6 +53,7 @@ public class WispEnemy : MonoBehaviour, IReactToDamage
         {
             SpawnerController.NUM_OF_ENEMIES--;
         }
+        ScoreTracker.currentScore++;
         Destroy(gameObject);
     }
 }

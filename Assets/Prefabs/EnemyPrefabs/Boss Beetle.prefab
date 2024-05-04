@@ -19,6 +19,7 @@ GameObject:
   - component: {fileID: 4535681378302138725}
   - component: {fileID: 1938315233012768746}
   - component: {fileID: 2091033846505423208}
+  - component: {fileID: -8266032424261675986}
   m_Layer: 8
   m_Name: Boss Beetle
   m_TagString: Untagged
@@ -237,3 +238,16 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000001, y: 2, z: 1.0000002}
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+--- !u!114 &-8266032424261675986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3828962010665080970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a08d486dc1103024690ae96c3d2b7b39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isBoss: 1

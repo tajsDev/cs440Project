@@ -101,6 +101,7 @@ GameObject:
   - component: {fileID: 5495632851323470656}
   - component: {fileID: 266092392718277213}
   - component: {fileID: 1006962290048581603}
+  - component: {fileID: 5485405132337562390}
   m_Layer: 8
   m_Name: Boss Wisp
   m_TagString: Untagged
@@ -313,6 +314,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.5, y: 2.5, z: 2}
   m_Center: {x: 0, y: 0.5, z: 0}
+--- !u!114 &5485405132337562390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6442397861376242677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a08d486dc1103024690ae96c3d2b7b39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isBoss: 1
 --- !u!1 &7691776941437964336
 GameObject:
   m_ObjectHideFlags: 0

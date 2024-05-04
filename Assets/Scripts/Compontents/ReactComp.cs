@@ -19,13 +19,16 @@ public class ReactComp : MonoBehaviour, IReactToDamage
     public void isDead() {
         if(isBoss)
         {
+            ScoreTracker.currentScore+=10;
             LevelState.BossEvent = false;
             LevelState.Spawning =false;
         }
         else
         {
+            ScoreTracker.currentScore ++;
             SpawnerController.NUM_OF_ENEMIES--;
         }
+        
         Destroy(gameObject);
     }
 }

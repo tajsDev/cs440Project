@@ -19,6 +19,7 @@ GameObject:
   - component: {fileID: 4535681378302138725}
   - component: {fileID: 9079180806742795971}
   - component: {fileID: 9216076479243196313}
+  - component: {fileID: 7804885451114781278}
   m_Layer: 8
   m_Name: BigBeetle
   m_TagString: Untagged
@@ -35,7 +36,7 @@ Transform:
   m_GameObject: {fileID: 3828962010665080970}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 26.6, y: 1.45, z: 45.6}
+  m_LocalPosition: {x: -47.5, y: 1.45, z: 45.6}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -245,3 +246,16 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000001, y: 2, z: 1.0000002}
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+--- !u!114 &7804885451114781278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3828962010665080970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a08d486dc1103024690ae96c3d2b7b39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isBoss: 0
